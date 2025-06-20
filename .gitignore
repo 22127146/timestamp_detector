@@ -1,0 +1,8 @@
+# Ignore environment files
+.env
+__pycache__/
+*.pyc
+*.tar
+*.zip
+/tmp
+/.venv

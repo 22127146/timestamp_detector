@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+opencv-python-headless
+python-multipart
+python-dotenv
+open_clip_torch
+torch
+torchvision
+google-search-results
